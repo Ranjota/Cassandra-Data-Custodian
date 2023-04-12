@@ -1,0 +1,51 @@
+
+.form-wrapper {
+    align-items: center;
+    display:flex !important;
+    margin:0;
+    padding:0;
+}
+
+.form {
+    margin: auto;
+    display:block;
+    width:100%;
+    margin:0 auto;
+}
+
+label {
+    float: left;
+}
+
+.form-control {
+    float: left;
+    width: 100px;
+}
+
+.btn-browse-data {
+    background-color: #e8a13a !important;
+    margin: 4% 0 0 35%!important;
+    border-color: #e8a13a !important;
+    color: white !important;
+    margin: 0 !important;
+    position: absolute;
+    top: 0px;
+    left: 42%;
+}
+
+.btn-submit {
+    background-color: #e8a13a !important;
+    margin: 4% 0 0 35%!important;
+    border-color: #e8a13a !important;
+    color: white !important;
+    margin-left: 25% !important;
+    margin-top: 0% !important;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+.col {
+    position: relative;
+}

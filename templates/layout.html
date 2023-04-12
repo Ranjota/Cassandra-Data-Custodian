@@ -1,0 +1,74 @@
+<!DocType html>
+<html lang="en">
+<head>
+<title>Cassandra Data Custodian</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<link rel="icon" type="images/x-icon" href="{{ url_for('static',filename='images/cassandra-logo.ico') }}" />
+<link rel="stylesheet" type="text/css" href= "{{ url_for('static',filename='styles/layout.css') }}">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.13.2/css/jquery.dataTables.css">
+<link rel="stylesheet" href="https://cdn.datatables.net/buttons/1.4.1/css/buttons.dataTables.min.css">
+<link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+<link rel="stylesheet" type="text/css" href= "{{ url_for('static',filename='styles/editor.dataTables.min.css') }}">
+
+{% block css %}
+{% endblock %}
+<meta name="robots" content="noindex, follow">
+<body>
+    <div class="wrapper d-flex align-items-stretch">
+    <div class="topbar">
+        <h3 class="cassandra-heading" onclick="redirectToHomePage()">Cassandra Data Custodian</h3>
+        <img src="/static/images/georgian-college-logo-2017.webp" class="georgian-logo"/>
+        <a style="color:white; text-decoration:none;position:fixed;right:20px" href="/">Sign out</a>
+    </div>
+    <nav id="sidebar" style="display:none";>
+        <div class="custom-menu">
+            <button type="button" id="sidebarCollapse" class="btn btn-primary">
+                <i class="fa fa-bars"></i>
+                <span class="sr-only">Toggle Menu</span>
+            </button>
+        </div>
+        <div class="p-4">
+            <ul class="list-unstyled components mb-5">
+                <li><a href="/userTable"><span class="fa fa-table mr-3"></span>View users</a></li>
+                <li><a href="/admintableList"><span class="fa fa-user mr-3"></span>View user tables</a></li>
+                <li><a href="/loadData"><span class="fa fa-user mr-3"></span>Load data</a></li>
+            </ul>
+        </div>      
+        <!-- <div class="mb-5">
+            <h3 class="h6 mb-3">Subscribe</h3>
+                <form action="#" class="subscribe-form">
+                    <div class="form-group d-flex">
+                        <div class="icon"><span class="icon-paper-plane"></span></div>
+                        <input type="text" class="form-control" placeholder="Enter Email Address">
+                    </div>
+                </form>
+            </div>
+            <div class="footer">
+            <p>
+            Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved</a>
+            </p>
+        </div> -->
+</nav>
+<div class="content-container admin">
+    {% block content %} 
+    {% endblock content %}
+</div>
+</div>
+</body>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.13.2/js/jquery.dataTables.js"></script>
+<script  src="{{url_for('static', filename='scripts/popper.js')}}"></script>
+<script  src="{{url_for('static', filename='scripts/main.js')}}"></script>
+<script  src="{{url_for('static', filename='scripts/layout.js')}}"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+<script src="//cdn.datatables.net/buttons/2.3.6/js/buttons.colVis.min.js"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993" integrity="sha512-0ahDYl866UMhKuYcW078ScMalXqtFJggm7TmlUtp0UlD4eQk0Ixfnm5ykXKvGJNFjLMoortdseTfsRT8oCfgGA==" data-cf-beacon='{"rayId":"7a46950feb9d2d55","token":"cd0b4b3a733644fc843ef0b185f98241","version":"2023.2.0","si":100}' crossorigin="anonymous"></script>
+<script src="{{url_for('static', filename='Editor/js/dataTables.editor.min.js')}}"></script>
+<!-- <script src="{{url_for('static', filename='Editor/js/editor.bootstrap4.min.js')}}"></script> -->
+{% block script %}
+{% endblock %}
+
+<!-- <script nonce="e4194007-9433-4008-834d-d41a066686c7">(function(w,d){!function(bv,bw,bx,by){bv[bx]=bv[bx]||{};bv[bx].executed=[];bv.zaraz={deferred:[],listeners:[]};bv.zaraz.q=[];bv.zaraz._f=function(bz){return function(){var bA=Array.prototype.slice.call(arguments);bv.zaraz.q.push({m:bz,a:bA})}};for(const bB of["track","set","debug"])bv.zaraz[bB]=bv.zaraz._f(bB);bv.zaraz.init=()=>{var bC=bw.getElementsByTagName(by)[0],bD=bw.createElement(by),bE=bw.getElementsByTagName("title")[0];bE&&(bv[bx].t=bw.getElementsByTagName("title")[0].text);bv[bx].x=Math.random();bv[bx].w=bv.screen.width;bv[bx].h=bv.screen.height;bv[bx].j=bv.innerHeight;bv[bx].e=bv.innerWidth;bv[bx].l=bv.location.href;bv[bx].r=bw.referrer;bv[bx].k=bv.screen.colorDepth;bv[bx].n=bw.characterSet;bv[bx].o=(new Date).getTimezoneOffset();if(bv.dataLayer)for(const bI of Object.entries(Object.entries(dataLayer).reduce(((bJ,bK)=>({...bJ[1],...bK[1]})))))zaraz.set(bI[0],bI[1],{scope:"page"});bv[bx].q=[];for(;bv.zaraz.q.length;){const bL=bv.zaraz.q.shift();bv[bx].q.push(bL)}bD.defer=!0;for(const bM of[localStorage,sessionStorage])Object.keys(bM||{}).filter((bO=>bO.startsWith("_zaraz_"))).forEach((bN=>{try{bv[bx]["z_"+bN.slice(7)]=JSON.parse(bM.getItem(bN))}catch{bv[bx]["z_"+bN.slice(7)]=bM.getItem(bN)}}));bD.referrerPolicy="origin";bD.src="/cdn-cgi/zaraz/s.js?z="+btoa(encodeURIComponent(JSON.stringify(bv[bx])));bC.parentNode.insertBefore(bD,bC)};["complete","interactive"].includes(bw.readyState)?zaraz.init():bv.addEventListener("DOMContentLoaded",zaraz.init)}(w,d,"zarazData","script");})(window,document);</script></head> -->
+</html>
