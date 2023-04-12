@@ -1,0 +1,1001 @@
+country,iso_code,date,total_vaccinations,people_vaccinated,people_fully_vaccinated,daily_vaccinations_raw,daily_vaccinations,total_vaccinations_per_hundred,people_vaccinated_per_hundred,people_fully_vaccinated_per_hundred,daily_vaccinations_per_million,vaccines,source_name,source_website
+Afghanistan,AFG,2021-02-22,0.0,0.0,,,,0.0,0.0,,,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-02-23,,,,,1367.0,,,,35.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-02-24,,,,,1367.0,,,,35.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-02-25,,,,,1367.0,,,,35.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-02-26,,,,,1367.0,,,,35.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-02-27,,,,,1367.0,,,,35.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-02-28,8200.0,8200.0,,,1367.0,0.02,0.02,,35.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-03-01,,,,,1580.0,,,,41.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-03-02,,,,,1794.0,,,,46.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-03-03,,,,,2008.0,,,,52.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-03-04,,,,,2221.0,,,,57.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-03-05,,,,,2435.0,,,,63.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-03-06,,,,,2649.0,,,,68.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-03-07,,,,,2862.0,,,,74.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-03-08,,,,,2862.0,,,,74.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-03-09,,,,,2862.0,,,,74.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-03-10,,,,,2862.0,,,,74.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-03-11,,,,,2862.0,,,,74.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-03-12,,,,,2862.0,,,,74.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-03-13,,,,,2862.0,,,,74.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-03-14,,,,,2862.0,,,,74.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-03-15,,,,,2862.0,,,,74.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-03-16,54000.0,54000.0,,,2862.0,0.14,0.14,,74.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-03-17,,,,,2882.0,,,,74.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-03-18,,,,,2902.0,,,,75.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-03-19,,,,,2921.0,,,,75.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-03-20,,,,,2941.0,,,,76.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-03-21,,,,,2961.0,,,,76.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-03-22,,,,,2980.0,,,,77.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-03-23,,,,,3000.0,,,,77.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-03-24,,,,,3000.0,,,,77.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-03-25,,,,,3000.0,,,,77.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-03-26,,,,,3000.0,,,,77.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-03-27,,,,,3000.0,,,,77.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-03-28,,,,,3000.0,,,,77.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-03-29,,,,,3000.0,,,,77.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-03-30,,,,,3000.0,,,,77.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-03-31,,,,,3000.0,,,,77.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-04-01,,,,,3000.0,,,,77.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-04-02,,,,,3000.0,,,,77.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-04-03,,,,,3000.0,,,,77.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-04-04,,,,,3000.0,,,,77.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-04-05,,,,,3000.0,,,,77.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-04-06,,,,,3000.0,,,,77.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Afghanistan,AFG,2021-04-07,120000.0,120000.0,,,3000.0,0.31,0.31,,77.0,Oxford/AstraZeneca,Government of Afghanistan,http://www.xinhuanet.com/english/asiapacific/2021-04/07/c_139864755.htm
+Albania,ALB,2021-01-10,0.0,0.0,,,,0.0,0.0,,,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-01-11,,,,,64.0,,,,22.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-01-12,128.0,128.0,,,64.0,0.0,0.0,,22.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-01-13,188.0,188.0,,60.0,63.0,0.01,0.01,,22.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-01-14,266.0,266.0,,78.0,66.0,0.01,0.01,,23.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-01-15,308.0,308.0,,42.0,62.0,0.01,0.01,,22.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-01-16,369.0,369.0,,61.0,62.0,0.01,0.01,,22.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-01-17,405.0,405.0,,36.0,58.0,0.01,0.01,,20.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-01-18,447.0,447.0,,42.0,55.0,0.02,0.02,,19.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-01-19,483.0,483.0,,36.0,51.0,0.02,0.02,,18.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-01-20,519.0,519.0,,36.0,47.0,0.02,0.02,,16.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-01-21,549.0,549.0,,30.0,40.0,0.02,0.02,,14.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-01-22,,,,,34.0,,,,12.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-01-23,,,,,26.0,,,,9.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-01-24,,,,,21.0,,,,7.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-01-25,,,,,15.0,,,,5.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-01-26,,,,,9.0,,,,3.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-01-27,,,,,4.0,,,,1.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-01-28,,,,,0.0,,,,0.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-01-29,,,,,0.0,,,,0.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-01-30,,,,,0.0,,,,0.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-01-31,,,,,0.0,,,,0.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-02-01,,,,,0.0,,,,0.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-02-02,550.0,549.0,1.0,,0.0,0.02,0.02,0.0,0.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-02-03,,,,,12.0,,,,4.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-02-04,,,,,24.0,,,,8.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-02-05,,,,,35.0,,,,12.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-02-06,,,,,47.0,,,,16.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-02-07,,,,,59.0,,,,21.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-02-08,,,,,71.0,,,,25.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-02-09,1127.0,689.0,438.0,,82.0,0.04,0.02,0.02,28.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-02-10,,,,,81.0,,,,28.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-02-11,,,,,79.0,,,,27.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-02-12,,,,,78.0,,,,27.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-02-13,,,,,76.0,,,,26.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-02-14,,,,,75.0,,,,26.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-02-15,,,,,73.0,,,,25.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-02-16,,,,,72.0,,,,25.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-02-17,1701.0,1090.0,611.0,,72.0,0.06,0.04,0.02,25.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-02-18,3049.0,2438.0,611.0,1348.0,254.0,0.11,0.08,0.02,88.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-02-19,4177.0,,,1128.0,405.0,0.15,,,141.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-02-20,,,,,516.0,,,,179.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-02-21,,,,,627.0,,,,218.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-02-22,6728.0,6073.0,655.0,,739.0,0.23,0.21,0.02,257.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-02-23,,,,,891.0,,,,310.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-02-24,,,,,1043.0,,,,362.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-02-25,10135.0,,,,1012.0,0.35,,,352.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-02-26,,,,,1000.0,,,,347.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-02-27,,,,,1027.0,,,,357.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-02-28,,,,,1054.0,,,,366.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-03-01,14295.0,,,,1081.0,0.5,,,376.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-03-02,,,,,1026.0,,,,357.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-03-03,15793.0,,,,971.0,0.55,,,337.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-03-04,,,,,927.0,,,,322.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-03-05,,,,,897.0,,,,312.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-03-06,,,,,867.0,,,,301.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-03-07,,,,,838.0,,,,291.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-03-08,,,,,808.0,,,,281.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-03-09,,,,,820.0,,,,285.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-03-10,21613.0,,,,831.0,0.75,,,289.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-03-11,,,,,857.0,,,,298.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-03-12,23635.0,,,,883.0,0.82,,,307.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-03-13,,,,,1042.0,,,,362.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-03-14,,,,,1201.0,,,,417.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-03-15,,,,,1361.0,,,,473.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-03-16,,,,,1520.0,,,,528.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-03-17,33369.0,,,,1679.0,1.16,,,583.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-03-18,,,,,1960.0,,,,681.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-03-19,,,,,2240.0,,,,778.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-03-20,,,,,2386.0,,,,829.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-03-21,,,,,2533.0,,,,880.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-03-22,48229.0,,,,2679.0,1.68,,,931.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-03-23,51690.0,,,3461.0,2895.0,1.8,,,1006.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-03-24,53992.0,,,2302.0,2946.0,1.88,,,1024.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-03-25,59348.0,,,5356.0,3287.0,2.06,,,1142.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-03-26,62248.0,,,2900.0,3276.0,2.16,,,1138.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-03-27,64075.0,,,1827.0,3113.0,2.23,,,1082.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-03-28,78000.0,,,13925.0,4678.0,2.71,,,1626.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-03-29,,,,,7204.0,,,,2503.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-03-30,119321.0,,,,9662.0,4.15,,,3357.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-03-31,138846.0,,,19525.0,12122.0,4.82,,,4212.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-04-01,155463.0,,,16617.0,13731.0,5.4,,,4771.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-04-02,172486.0,,,17023.0,15748.0,5.99,,,5472.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-04-03,185496.0,,,13010.0,17346.0,6.45,,,6028.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-04-04,192882.0,,,7386.0,16412.0,6.7,,,5703.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-04-05,206708.0,,,13826.0,15435.0,7.18,,,5363.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-04-06,221588.0,,,14880.0,14610.0,7.7,,,5077.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-04-07,232379.0,,,10791.0,13362.0,8.07,,,4643.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Albania,ALB,2021-04-08,242542.0,,,10163.0,12440.0,8.43,,,4323.0,"Pfizer/BioNTech, Sinovac",Ministry of Health,https://twitter.com/gmanastirliu/status/1380232232040808449?s=21
+Algeria,DZA,2021-01-29,0.0,,,,,0.0,,,,Sputnik V,Ministry of Health,https://www.echoroukonline.com/%d9%84%d9%82%d8%a7%d8%ad-%d9%83%d9%88%d8%b1%d9%88%d9%86%d8%a7-%d8%b9%d8%b6%d9%88-%d8%a8%d8%a7%d9%84%d9%84%d8%ac%d9%86%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a%d8%a9-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9/
+Algeria,DZA,2021-01-30,30.0,,,30.0,30.0,0.0,,,1.0,Sputnik V,Ministry of Health,https://www.echoroukonline.com/%d9%84%d9%82%d8%a7%d8%ad-%d9%83%d9%88%d8%b1%d9%88%d9%86%d8%a7-%d8%b9%d8%b6%d9%88-%d8%a8%d8%a7%d9%84%d9%84%d8%ac%d9%86%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a%d8%a9-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9/
+Algeria,DZA,2021-01-31,,,,,1889.0,,,,43.0,Sputnik V,Ministry of Health,https://www.echoroukonline.com/%d9%84%d9%82%d8%a7%d8%ad-%d9%83%d9%88%d8%b1%d9%88%d9%86%d8%a7-%d8%b9%d8%b6%d9%88-%d8%a8%d8%a7%d9%84%d9%84%d8%ac%d9%86%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a%d8%a9-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9/
+Algeria,DZA,2021-02-01,,,,,2509.0,,,,57.0,Sputnik V,Ministry of Health,https://www.echoroukonline.com/%d9%84%d9%82%d8%a7%d8%ad-%d9%83%d9%88%d8%b1%d9%88%d9%86%d8%a7-%d8%b9%d8%b6%d9%88-%d8%a8%d8%a7%d9%84%d9%84%d8%ac%d9%86%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a%d8%a9-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9/
+Algeria,DZA,2021-02-02,,,,,2819.0,,,,64.0,Sputnik V,Ministry of Health,https://www.echoroukonline.com/%d9%84%d9%82%d8%a7%d8%ad-%d9%83%d9%88%d8%b1%d9%88%d9%86%d8%a7-%d8%b9%d8%b6%d9%88-%d8%a8%d8%a7%d9%84%d9%84%d8%ac%d9%86%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a%d8%a9-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9/
+Algeria,DZA,2021-02-03,,,,,3005.0,,,,69.0,Sputnik V,Ministry of Health,https://www.echoroukonline.com/%d9%84%d9%82%d8%a7%d8%ad-%d9%83%d9%88%d8%b1%d9%88%d9%86%d8%a7-%d8%b9%d8%b6%d9%88-%d8%a8%d8%a7%d9%84%d9%84%d8%ac%d9%86%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a%d8%a9-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9/
+Algeria,DZA,2021-02-04,,,,,3129.0,,,,71.0,Sputnik V,Ministry of Health,https://www.echoroukonline.com/%d9%84%d9%82%d8%a7%d8%ad-%d9%83%d9%88%d8%b1%d9%88%d9%86%d8%a7-%d8%b9%d8%b6%d9%88-%d8%a8%d8%a7%d9%84%d9%84%d8%ac%d9%86%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a%d8%a9-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9/
+Algeria,DZA,2021-02-05,,,,,3217.0,,,,73.0,Sputnik V,Ministry of Health,https://www.echoroukonline.com/%d9%84%d9%82%d8%a7%d8%ad-%d9%83%d9%88%d8%b1%d9%88%d9%86%d8%a7-%d8%b9%d8%b6%d9%88-%d8%a8%d8%a7%d9%84%d9%84%d8%ac%d9%86%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a%d8%a9-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9/
+Algeria,DZA,2021-02-06,,,,,3748.0,,,,85.0,Sputnik V,Ministry of Health,https://www.echoroukonline.com/%d9%84%d9%82%d8%a7%d8%ad-%d9%83%d9%88%d8%b1%d9%88%d9%86%d8%a7-%d8%b9%d8%b6%d9%88-%d8%a8%d8%a7%d9%84%d9%84%d8%ac%d9%86%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a%d8%a9-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9/
+Algeria,DZA,2021-02-07,,,,,3748.0,,,,85.0,Sputnik V,Ministry of Health,https://www.echoroukonline.com/%d9%84%d9%82%d8%a7%d8%ad-%d9%83%d9%88%d8%b1%d9%88%d9%86%d8%a7-%d8%b9%d8%b6%d9%88-%d8%a8%d8%a7%d9%84%d9%84%d8%ac%d9%86%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a%d8%a9-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9/
+Algeria,DZA,2021-02-08,,,,,3748.0,,,,85.0,Sputnik V,Ministry of Health,https://www.echoroukonline.com/%d9%84%d9%82%d8%a7%d8%ad-%d9%83%d9%88%d8%b1%d9%88%d9%86%d8%a7-%d8%b9%d8%b6%d9%88-%d8%a8%d8%a7%d9%84%d9%84%d8%ac%d9%86%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a%d8%a9-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9/
+Algeria,DZA,2021-02-09,,,,,3748.0,,,,85.0,Sputnik V,Ministry of Health,https://www.echoroukonline.com/%d9%84%d9%82%d8%a7%d8%ad-%d9%83%d9%88%d8%b1%d9%88%d9%86%d8%a7-%d8%b9%d8%b6%d9%88-%d8%a8%d8%a7%d9%84%d9%84%d8%ac%d9%86%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a%d8%a9-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9/
+Algeria,DZA,2021-02-10,,,,,3748.0,,,,85.0,Sputnik V,Ministry of Health,https://www.echoroukonline.com/%d9%84%d9%82%d8%a7%d8%ad-%d9%83%d9%88%d8%b1%d9%88%d9%86%d8%a7-%d8%b9%d8%b6%d9%88-%d8%a8%d8%a7%d9%84%d9%84%d8%ac%d9%86%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a%d8%a9-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9/
+Algeria,DZA,2021-02-11,,,,,3748.0,,,,85.0,Sputnik V,Ministry of Health,https://www.echoroukonline.com/%d9%84%d9%82%d8%a7%d8%ad-%d9%83%d9%88%d8%b1%d9%88%d9%86%d8%a7-%d8%b9%d8%b6%d9%88-%d8%a8%d8%a7%d9%84%d9%84%d8%ac%d9%86%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a%d8%a9-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9/
+Algeria,DZA,2021-02-12,,,,,3748.0,,,,85.0,Sputnik V,Ministry of Health,https://www.echoroukonline.com/%d9%84%d9%82%d8%a7%d8%ad-%d9%83%d9%88%d8%b1%d9%88%d9%86%d8%a7-%d8%b9%d8%b6%d9%88-%d8%a8%d8%a7%d9%84%d9%84%d8%ac%d9%86%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a%d8%a9-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9/
+Algeria,DZA,2021-02-13,,,,,3748.0,,,,85.0,Sputnik V,Ministry of Health,https://www.echoroukonline.com/%d9%84%d9%82%d8%a7%d8%ad-%d9%83%d9%88%d8%b1%d9%88%d9%86%d8%a7-%d8%b9%d8%b6%d9%88-%d8%a8%d8%a7%d9%84%d9%84%d8%ac%d9%86%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a%d8%a9-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9/
+Algeria,DZA,2021-02-14,,,,,3748.0,,,,85.0,Sputnik V,Ministry of Health,https://www.echoroukonline.com/%d9%84%d9%82%d8%a7%d8%ad-%d9%83%d9%88%d8%b1%d9%88%d9%86%d8%a7-%d8%b9%d8%b6%d9%88-%d8%a8%d8%a7%d9%84%d9%84%d8%ac%d9%86%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a%d8%a9-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9/
+Algeria,DZA,2021-02-15,,,,,3748.0,,,,85.0,Sputnik V,Ministry of Health,https://www.echoroukonline.com/%d9%84%d9%82%d8%a7%d8%ad-%d9%83%d9%88%d8%b1%d9%88%d9%86%d8%a7-%d8%b9%d8%b6%d9%88-%d8%a8%d8%a7%d9%84%d9%84%d8%ac%d9%86%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a%d8%a9-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9/
+Algeria,DZA,2021-02-16,,,,,3748.0,,,,85.0,Sputnik V,Ministry of Health,https://www.echoroukonline.com/%d9%84%d9%82%d8%a7%d8%ad-%d9%83%d9%88%d8%b1%d9%88%d9%86%d8%a7-%d8%b9%d8%b6%d9%88-%d8%a8%d8%a7%d9%84%d9%84%d8%ac%d9%86%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a%d8%a9-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9/
+Algeria,DZA,2021-02-17,,,,,3748.0,,,,85.0,Sputnik V,Ministry of Health,https://www.echoroukonline.com/%d9%84%d9%82%d8%a7%d8%ad-%d9%83%d9%88%d8%b1%d9%88%d9%86%d8%a7-%d8%b9%d8%b6%d9%88-%d8%a8%d8%a7%d9%84%d9%84%d8%ac%d9%86%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a%d8%a9-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9/
+Algeria,DZA,2021-02-18,,,,,3748.0,,,,85.0,Sputnik V,Ministry of Health,https://www.echoroukonline.com/%d9%84%d9%82%d8%a7%d8%ad-%d9%83%d9%88%d8%b1%d9%88%d9%86%d8%a7-%d8%b9%d8%b6%d9%88-%d8%a8%d8%a7%d9%84%d9%84%d8%ac%d9%86%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a%d8%a9-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9/
+Algeria,DZA,2021-02-19,75000.0,,,,3748.0,0.17,,,85.0,Sputnik V,Ministry of Health,https://www.echoroukonline.com/%d9%84%d9%82%d8%a7%d8%ad-%d9%83%d9%88%d8%b1%d9%88%d9%86%d8%a7-%d8%b9%d8%b6%d9%88-%d8%a8%d8%a7%d9%84%d9%84%d8%ac%d9%86%d8%a9-%d8%a7%d9%84%d8%b9%d9%84%d9%85%d9%8a%d8%a9-%d9%8a%d9%83%d8%b4%d9%81-%d8%b9/
+Andorra,AND,2021-01-25,576.0,576.0,,,,0.75,0.75,,,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-01-26,,,,,66.0,,,,854.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-01-27,,,,,66.0,,,,854.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-01-28,,,,,66.0,,,,854.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-01-29,,,,,66.0,,,,854.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-01-30,,,,,66.0,,,,854.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-01-31,,,,,66.0,,,,854.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-02-01,1036.0,1036.0,,,66.0,1.34,1.34,,854.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-02-02,,,,,60.0,,,,777.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-02-03,,,,,55.0,,,,712.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-02-04,,,,,50.0,,,,647.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-02-05,,,,,44.0,,,,569.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-02-06,,,,,39.0,,,,505.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-02-07,,,,,34.0,,,,440.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-02-08,,,,,28.0,,,,362.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-02-09,,,,,28.0,,,,362.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-02-10,1291.0,1291.0,,,28.0,1.67,1.67,,362.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-02-11,,,,,48.0,,,,621.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-02-12,1622.0,1622.0,,,68.0,2.1,2.1,,880.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-02-13,,,,,74.0,,,,958.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-02-14,,,,,81.0,,,,1048.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-02-15,,,,,87.0,,,,1126.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-02-16,,,,,94.0,,,,1217.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-02-17,,,,,100.0,,,,1294.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-02-18,,,,,87.0,,,,1126.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-02-19,2141.0,2141.0,,,74.0,2.77,2.77,,958.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-02-20,,,,,71.0,,,,919.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-02-21,,,,,67.0,,,,867.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-02-22,,,,,64.0,,,,828.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-02-23,,,,,60.0,,,,777.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-02-24,2390.0,2390.0,,,57.0,3.09,3.09,,738.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-02-25,,,,,56.0,,,,725.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-02-26,2526.0,,,,55.0,3.27,,,712.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-02-27,,,,,63.0,,,,815.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-02-28,,,,,72.0,,,,932.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-03-01,,,,,80.0,,,,1035.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-03-02,,,,,89.0,,,,1152.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-03-03,,,,,97.0,,,,1255.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-03-04,,,,,103.0,,,,1333.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-03-05,,,,,108.0,,,,1398.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-03-06,,,,,108.0,,,,1398.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-03-07,,,,,108.0,,,,1398.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-03-08,3611.0,2439.0,1172.0,,108.0,4.67,3.16,1.52,1398.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-03-09,,,,,186.0,,,,2407.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-03-10,4914.0,3650.0,1264.0,,264.0,6.36,4.72,1.64,3417.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-03-11,,,,,347.0,,,,4491.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-03-12,,,,,430.0,,,,5565.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-03-13,,,,,513.0,,,,6639.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-03-14,,,,,596.0,,,,7714.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-03-15,8363.0,7098.0,1265.0,,679.0,10.82,9.19,1.64,8788.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-03-16,,,,,619.0,,,,8011.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-03-17,,,,,559.0,,,,7235.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-03-18,,,,,493.0,,,,6381.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-03-19,9288.0,,,,428.0,12.02,,,5539.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-03-20,,,,,357.0,,,,4620.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-03-21,,,,,287.0,,,,3714.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-03-22,,,,,217.0,,,,2809.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-03-23,,,,,212.0,,,,2744.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-03-24,,,,,207.0,,,,2679.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-03-25,,,,,202.0,,,,2614.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-03-26,,,,,197.0,,,,2550.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-03-27,,,,,197.0,,,,2550.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-03-28,,,,,197.0,,,,2550.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-03-29,,,,,197.0,,,,2550.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-03-30,,,,,197.0,,,,2550.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-03-31,,,,,197.0,,,,2550.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-04-01,,,,,197.0,,,,2550.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-04-02,,,,,197.0,,,,2550.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-04-03,,,,,197.0,,,,2550.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Andorra,AND,2021-04-04,12440.0,,,,197.0,16.1,,,2550.0,Pfizer/BioNTech,Government of Andorra,https://twitter.com/GovernAndorra/status/1378732225571749892?s=20
+Angola,AGO,2021-03-01,0.0,0.0,,,,0.0,0.0,,,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-03-02,,,,,881.0,,,,27.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-03-03,,,,,881.0,,,,27.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-03-04,,,,,881.0,,,,27.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-03-05,,,,,881.0,,,,27.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-03-06,,,,,881.0,,,,27.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-03-07,,,,,881.0,,,,27.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-03-08,6169.0,6169.0,,,881.0,0.02,0.02,,27.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-03-09,,,,,1367.0,,,,42.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-03-10,,,,,1853.0,,,,56.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-03-11,,,,,2339.0,,,,71.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-03-12,,,,,2825.0,,,,86.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-03-13,,,,,3311.0,,,,101.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-03-14,,,,,3797.0,,,,116.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-03-15,,,,,4283.0,,,,130.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-03-16,,,,,4283.0,,,,130.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-03-17,,,,,4283.0,,,,130.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-03-18,49000.0,49000.0,,,4283.0,0.15,0.15,,130.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-03-19,,,,,4577.0,,,,139.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-03-20,,,,,4870.0,,,,148.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-03-21,,,,,5163.0,,,,157.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-03-22,,,,,5457.0,,,,166.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-03-23,,,,,5750.0,,,,175.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-03-24,87022.0,87022.0,,,6044.0,0.26,0.26,,184.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-03-25,,,,,6681.0,,,,203.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-03-26,,,,,7025.0,,,,214.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-03-27,,,,,7369.0,,,,224.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-03-28,,,,,7713.0,,,,235.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-03-29,130750.0,130750.0,,,8057.0,0.4,0.4,,245.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-03-30,,,,,8060.0,,,,245.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-03-31,,,,,8062.0,,,,245.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-04-01,,,,,7720.0,,,,235.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-04-02,,,,,7379.0,,,,225.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-04-03,,,,,7037.0,,,,214.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-04-04,,,,,6695.0,,,,204.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-04-05,,,,,6354.0,,,,193.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Angola,AGO,2021-04-06,181578.0,181578.0,,,6354.0,0.55,0.55,,193.0,Oxford/AstraZeneca,Ministry of Health,https://africa.cgtn.com/2021/04/06/covid-19-vaccinations-in-angola-surpass-180000-mark/
+Anguilla,AIA,2021-02-04,0.0,0.0,,,,0.0,0.0,,,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-02-05,,,,,149.0,,,,9932.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-02-06,,,,,149.0,,,,9932.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-02-07,,,,,149.0,,,,9932.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-02-08,,,,,149.0,,,,9932.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-02-09,,,,,149.0,,,,9932.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-02-10,,,,,149.0,,,,9932.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-02-11,,,,,149.0,,,,9932.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-02-12,,,,,149.0,,,,9932.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-02-13,1341.0,1341.0,,,149.0,8.94,8.94,,9932.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-02-14,2762.0,2762.0,,1421.0,331.0,18.41,18.41,,22064.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-02-15,,,,,323.0,,,,21530.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-02-16,,,,,316.0,,,,21064.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-02-17,,,,,309.0,,,,20597.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-02-18,,,,,301.0,,,,20064.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-02-19,,,,,294.0,,,,19597.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-02-20,,,,,286.0,,,,19064.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-02-21,,,,,97.0,,,,6466.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-02-22,,,,,97.0,,,,6466.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-02-23,,,,,97.0,,,,6466.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-02-24,,,,,97.0,,,,6466.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-02-25,,,,,97.0,,,,6466.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-02-26,3929.0,3929.0,,,97.0,26.19,26.19,,6466.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-02-27,,,,,94.0,,,,6266.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-02-28,,,,,90.0,,,,5999.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-03-01,,,,,86.0,,,,5733.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-03-02,,,,,82.0,,,,5466.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-03-03,,,,,79.0,,,,5266.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-03-04,,,,,75.0,,,,4999.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-03-05,,,,,71.0,,,,4733.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-03-06,,,,,71.0,,,,4733.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-03-07,,,,,71.0,,,,4733.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-03-08,,,,,71.0,,,,4733.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-03-09,,,,,71.0,,,,4733.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-03-10,,,,,71.0,,,,4733.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-03-11,,,,,71.0,,,,4733.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-03-12,,,,,71.0,,,,4733.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-03-13,5000.0,5000.0,,,71.0,33.33,33.33,,4733.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-03-14,,,,,69.0,,,,4599.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-03-15,,,,,68.0,,,,4533.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-03-16,,,,,66.0,,,,4399.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-03-17,,,,,64.0,,,,4266.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-03-18,,,,,62.0,,,,4133.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Anguilla,AIA,2021-03-19,5348.0,5348.0,,,60.0,35.65,35.65,,3999.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/MinistryofHealthAnguilla/posts/1416076468746925?__cft__[0]=AZUg69IJENUHboczW8qOAnM__Hiwo_LW-XjrnGc-LFhs9cKDdCt68zfDDaLBDKbZ8oy_EmlCWrdoZ_JHIhLgcjYC245vzoi4Xr2nLO2lPczTYfS9KmygmqYNXYxAHMs6MstvEvuflHR3FuntLl_03dNV&__tn__=%2CO%2CP-R
+Antigua and Barbuda,ATG,2021-02-16,0.0,0.0,,,,0.0,0.0,,,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-02-17,,,,,895.0,,,,9139.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-02-18,,,,,895.0,,,,9139.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-02-19,,,,,895.0,,,,9139.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-02-20,,,,,895.0,,,,9139.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-02-21,,,,,895.0,,,,9139.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-02-22,,,,,895.0,,,,9139.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-02-23,,,,,895.0,,,,9139.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-02-24,,,,,895.0,,,,9139.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-02-25,,,,,895.0,,,,9139.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-02-26,,,,,895.0,,,,9139.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-02-27,,,,,895.0,,,,9139.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-02-28,,,,,895.0,,,,9139.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-03-01,,,,,895.0,,,,9139.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-03-02,,,,,895.0,,,,9139.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-03-03,,,,,895.0,,,,9139.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-03-04,,,,,895.0,,,,9139.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-03-05,,,,,895.0,,,,9139.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-03-06,,,,,895.0,,,,9139.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-03-07,,,,,895.0,,,,9139.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-03-08,,,,,895.0,,,,9139.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-03-09,,,,,895.0,,,,9139.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-03-10,,,,,895.0,,,,9139.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-03-11,,,,,895.0,,,,9139.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-03-12,,,,,895.0,,,,9139.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-03-13,,,,,895.0,,,,9139.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-03-14,,,,,895.0,,,,9139.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-03-15,24164.0,24164.0,,,895.0,24.68,24.68,,9139.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-03-16,,,,,821.0,,,,8384.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-03-17,,,,,747.0,,,,7628.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-03-18,,,,,674.0,,,,6883.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-03-19,25677.0,25677.0,,,600.0,26.22,26.22,,6127.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-03-20,,,,,490.0,,,,5004.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-03-21,,,,,380.0,,,,3880.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-03-22,,,,,270.0,,,,2757.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-03-23,,,,,233.0,,,,2379.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-03-24,,,,,197.0,,,,2012.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Antigua and Barbuda,ATG,2021-03-25,26424.0,26424.0,,,161.0,26.98,26.98,,1644.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/investingforwellness/photos/a.259371477836167/1135388016901171/?type=3
+Argentina,ARG,2020-12-29,700.0,,,,,0.0,,,,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2020-12-30,,,,,15656.0,,,,346.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2020-12-31,32013.0,,,,15656.0,0.07,,,346.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-01-01,,,,,11070.0,,,,245.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-01-02,,,,,8776.0,,,,194.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-01-03,,,,,7400.0,,,,164.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-01-04,39599.0,,,,6483.0,0.09,,,143.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-01-05,,,,,7984.0,,,,177.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-01-06,,,,,8173.0,,,,181.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-01-07,,,,,8363.0,,,,185.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-01-08,107542.0,,,,10519.0,0.24,,,233.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-01-09,,,,,11942.0,,,,264.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-01-10,,,,,13365.0,,,,296.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-01-11,,,,,14788.0,,,,327.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-01-12,,,,,14056.0,,,,311.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-01-13,166833.0,,,,13323.0,0.37,,,295.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-01-14,,,,,13320.0,,,,295.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-01-15,200759.0,,,,13317.0,0.44,,,295.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-01-16,,,,,12971.0,,,,287.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-01-17,,,,,12624.0,,,,279.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-01-18,,,,,12278.0,,,,272.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-01-19,,,,,11932.0,,,,264.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-01-20,247933.0,243539.0,4394.0,,11586.0,0.55,0.54,0.01,256.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-01-21,265724.0,249372.0,16352.0,17791.0,11704.0,0.59,0.55,0.04,259.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-01-22,279602.0,254456.0,25146.0,13878.0,11263.0,0.62,0.56,0.06,249.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-01-23,288064.0,258876.0,29188.0,8462.0,11124.0,0.64,0.57,0.06,246.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-01-24,292023.0,260036.0,31987.0,3959.0,10342.0,0.65,0.58,0.07,229.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-01-25,292386.0,260122.0,32264.0,363.0,9046.0,0.65,0.58,0.07,200.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-01-26,305880.0,266969.0,38911.0,13494.0,9626.0,0.68,0.59,0.09,213.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-01-27,318033.0,272323.0,45710.0,12153.0,10014.0,0.7,0.6,0.1,222.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-01-28,327999.0,276548.0,51451.0,9966.0,8896.0,0.73,0.61,0.11,197.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-01-29,344034.0,278451.0,65583.0,16035.0,9205.0,0.76,0.62,0.15,204.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-01-30,366384.0,281023.0,85361.0,22350.0,11189.0,0.81,0.62,0.19,248.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-01-31,,,,,11299.0,,,,250.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-02-01,375851.0,281577.0,94274.0,,11924.0,0.83,0.62,0.21,264.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-02-02,,,,,11475.0,,,,254.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-02-03,396562.0,284196.0,112366.0,,11218.0,0.88,0.63,0.25,248.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-02-04,444018.0,297717.0,146301.0,47456.0,16574.0,0.98,0.66,0.32,367.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-02-05,,,,,16238.0,,,,359.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-02-06,471383.0,307501.0,163882.0,,15000.0,1.04,0.68,0.36,332.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-02-07,501152.0,319316.0,181836.0,29769.0,18576.0,1.11,0.71,0.4,411.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-02-08,511582.0,322318.0,189264.0,10430.0,19390.0,1.13,0.71,0.42,429.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-02-09,513178.0,322975.0,190203.0,1596.0,18139.0,1.14,0.71,0.42,401.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-02-10,535303.0,337772.0,197531.0,22125.0,19820.0,1.18,0.75,0.44,439.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-02-11,572928.0,362649.0,210279.0,37625.0,18416.0,1.27,0.8,0.47,407.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-02-12,591632.0,368023.0,223609.0,18704.0,19133.0,1.31,0.81,0.49,423.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-02-13,606245.0,371629.0,234616.0,14613.0,19266.0,1.34,0.82,0.52,426.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-02-14,609605.0,372122.0,237483.0,3360.0,15493.0,1.35,0.82,0.53,343.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-02-15,609791.0,372181.0,237610.0,186.0,14030.0,1.35,0.82,0.53,310.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-02-16,611169.0,373253.0,237916.0,1378.0,13999.0,1.35,0.83,0.53,310.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-02-17,612322.0,374002.0,238320.0,1153.0,11003.0,1.35,0.83,0.53,243.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-02-18,635583.0,392399.0,243184.0,23261.0,8951.0,1.41,0.87,0.54,198.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-02-19,668654.0,414958.0,253696.0,33071.0,11003.0,1.48,0.92,0.56,243.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-02-20,707148.0,445614.0,261534.0,38494.0,14415.0,1.56,0.99,0.58,319.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-02-21,720267.0,456929.0,263338.0,13119.0,15809.0,1.59,1.01,0.58,350.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-02-22,722234.0,458822.0,263412.0,1967.0,16063.0,1.6,1.02,0.58,355.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-02-23,746615.0,481689.0,264926.0,24381.0,19349.0,1.65,1.07,0.59,428.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-02-24,780455.0,513394.0,267061.0,33840.0,24019.0,1.73,1.14,0.59,531.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-02-25,829832.0,558831.0,271001.0,49377.0,27750.0,1.84,1.24,0.6,614.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-02-26,903915.0,620635.0,283280.0,74083.0,33609.0,2.0,1.37,0.63,744.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-02-27,984895.0,694470.0,290425.0,80980.0,39678.0,2.18,1.54,0.64,878.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-02-28,1025003.0,731571.0,293432.0,40108.0,43534.0,2.27,1.62,0.65,963.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-03-01,1049169.0,755212.0,293957.0,24166.0,46705.0,2.32,1.67,0.65,1033.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-03-02,1126108.0,823446.0,302662.0,76939.0,54213.0,2.49,1.82,0.67,1200.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-03-03,1181292.0,874916.0,306376.0,55184.0,57262.0,2.61,1.94,0.68,1267.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-03-04,1252461.0,941695.0,310766.0,71169.0,60376.0,2.77,2.08,0.69,1336.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-03-05,1357596.0,1030504.0,327092.0,105135.0,64812.0,3.0,2.28,0.72,1434.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-03-06,,,,,65277.0,,,,1444.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-03-07,1526078.0,1182874.0,343204.0,,71582.0,3.38,2.62,0.76,1584.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-03-08,1546699.0,1202998.0,343701.0,20621.0,71076.0,3.42,2.66,0.76,1573.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-03-09,1648957.0,1301787.0,347170.0,102258.0,74693.0,3.65,2.88,0.77,1653.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-03-10,1774438.0,1424984.0,349454.0,125481.0,84735.0,3.93,3.15,0.77,1875.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-03-11,1919074.0,1564555.0,354519.0,144636.0,95230.0,4.25,3.46,0.78,2107.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-03-12,2098205.0,1719543.0,378662.0,179131.0,105801.0,4.64,3.8,0.84,2341.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-03-13,2294738.0,1876113.0,418625.0,196533.0,121843.0,5.08,4.15,0.93,2696.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-03-14,2381429.0,1932696.0,448733.0,86691.0,122193.0,5.27,4.28,0.99,2704.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-03-15,2404194.0,1952883.0,451311.0,22765.0,122499.0,5.32,4.32,1.0,2710.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-03-16,2541362.0,2064529.0,476833.0,137168.0,127486.0,5.62,4.57,1.06,2821.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-03-17,2668103.0,2170116.0,497987.0,126741.0,127666.0,5.9,4.8,1.1,2825.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-03-18,2805153.0,2289249.0,515904.0,137050.0,126583.0,6.21,5.07,1.14,2801.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-03-19,2939364.0,2382859.0,556505.0,134211.0,120166.0,6.5,5.27,1.23,2659.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-03-20,3063864.0,2472426.0,591438.0,124500.0,109875.0,6.78,5.47,1.31,2431.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-03-21,3119828.0,2514480.0,605348.0,55964.0,105486.0,6.9,5.56,1.34,2334.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-03-22,3142444.0,2535054.0,607390.0,22616.0,105464.0,6.95,5.61,1.34,2333.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-03-23,3240731.0,2618750.0,621981.0,98287.0,99910.0,7.17,5.79,1.38,2211.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-03-24,3328933.0,2694454.0,634479.0,88202.0,94404.0,7.37,5.96,1.4,2089.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-03-25,3365839.0,2730260.0,635579.0,36906.0,80098.0,7.45,6.04,1.41,1772.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-03-26,3474415.0,2824344.0,650071.0,108576.0,76436.0,7.69,6.25,1.44,1691.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-03-27,3570460.0,2908932.0,661528.0,96045.0,72371.0,7.9,6.44,1.46,1601.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-03-28,3625283.0,2959843.0,665440.0,54823.0,72208.0,8.02,6.55,1.47,1598.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-03-29,3646068.0,2980182.0,665886.0,20785.0,71946.0,8.07,6.59,1.47,1592.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-03-30,3744566.0,3073630.0,670936.0,98498.0,71976.0,8.29,6.8,1.48,1593.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-03-31,3891932.0,3214538.0,677394.0,147366.0,80428.0,8.61,7.11,1.5,1780.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-04-01,4023017.0,3342427.0,680590.0,131085.0,93883.0,8.9,7.4,1.51,2077.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-04-02,4123152.0,3440284.0,682868.0,100135.0,92677.0,9.12,7.61,1.51,2051.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-04-03,4178896.0,3495125.0,683771.0,55744.0,86919.0,9.25,7.73,1.51,1923.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-04-04,4234505.0,3550166.0,684339.0,55609.0,87032.0,9.37,7.86,1.51,1926.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-04-05,4260808.0,3576423.0,684385.0,26303.0,87820.0,9.43,7.91,1.51,1943.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-04-06,4404175.0,3712009.0,692166.0,143367.0,94230.0,9.74,8.21,1.53,2085.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-04-07,4571819.0,3870734.0,701085.0,167644.0,97127.0,10.12,8.56,1.55,2149.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Argentina,ARG,2021-04-08,4771214.0,4064154.0,707060.0,199395.0,106885.0,10.56,8.99,1.56,2365.0,"Oxford/AstraZeneca, Sinopharm/Beijing, Sputnik V",Ministry of Health,http://datos.salud.gob.ar/dataset/vacunas-contra-covid-19-dosis-aplicadas-en-la-republica-argentina
+Armenia,ARM,2021-03-31,565.0,565.0,,,,0.02,0.02,,,Sputnik V,Ministry of Health,https://rus.azatutyun.am/a/31180204.html
+Australia,AUS,2021-02-15,0.0,0.0,,,,0.0,0.0,,,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-02-16,0.0,0.0,,0.0,0.0,0.0,0.0,,0.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-02-17,0.0,0.0,,0.0,0.0,0.0,0.0,,0.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-02-18,0.0,0.0,,0.0,0.0,0.0,0.0,,0.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-02-19,0.0,0.0,,0.0,0.0,0.0,0.0,,0.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-02-20,0.0,0.0,,0.0,0.0,0.0,0.0,,0.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-02-21,0.0,0.0,,0.0,0.0,0.0,0.0,,0.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-02-22,20.0,20.0,,20.0,3.0,0.0,0.0,,0.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-02-23,2879.0,2879.0,,2859.0,411.0,0.01,0.01,,16.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-02-24,6908.0,6908.0,,4029.0,987.0,0.03,0.03,,39.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-02-25,17500.0,17500.0,,10592.0,2500.0,0.07,0.07,,98.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-02-26,25000.0,25000.0,,7500.0,3571.0,0.1,0.1,,140.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-02-27,30000.0,30000.0,,5000.0,4286.0,0.12,0.12,,168.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-02-28,31894.0,31894.0,,1894.0,4556.0,0.13,0.13,,179.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-03-01,33702.0,33702.0,,1808.0,4812.0,0.13,0.13,,189.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-03-02,41907.0,41907.0,,8205.0,5575.0,0.16,0.16,,219.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-03-03,50840.0,50840.0,,8933.0,6276.0,0.2,0.2,,246.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-03-04,61008.0,61008.0,,10168.0,6215.0,0.24,0.24,,244.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-03-05,71867.0,71867.0,,10859.0,6695.0,0.28,0.28,,263.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-03-06,76940.0,76940.0,,5073.0,6706.0,0.3,0.3,,263.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-03-07,81345.0,81345.0,,4405.0,7064.0,0.32,0.32,,277.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-03-08,86369.0,86369.0,,5024.0,7524.0,0.34,0.34,,295.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-03-09,94908.0,94908.0,,8539.0,7572.0,0.37,0.37,,297.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-03-10,106200.0,106200.0,,11292.0,7909.0,0.42,0.42,,310.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-03-11,125000.0,125000.0,,18800.0,9142.0,0.49,0.49,,359.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-03-12,135103.0,135103.0,,10103.0,9034.0,0.53,0.53,,354.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-03-13,159294.0,159294.0,,24191.0,11765.0,0.62,0.62,,461.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-03-14,162551.0,,,3257.0,11601.0,0.64,,,455.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-03-15,164781.0,,,2230.0,11202.0,0.65,,,439.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-03-16,182437.0,,,17656.0,12504.0,0.72,,,490.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-03-17,203557.0,,,21120.0,13908.0,0.8,,,545.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-03-18,226057.0,,,22500.0,14437.0,0.89,,,566.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-03-19,240754.0,,,14697.0,15093.0,0.94,,,592.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-03-20,253831.0,,,13077.0,13505.0,1.0,,,530.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-03-21,257019.0,,,3188.0,13495.0,1.01,,,529.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-03-22,282184.0,,,25165.0,16772.0,1.11,,,658.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-03-23,307525.0,,,25341.0,17870.0,1.21,,,701.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-03-24,355254.0,,,47729.0,21671.0,1.39,,,850.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-03-25,408410.0,,,53156.0,26050.0,1.6,,,1022.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-03-26,460155.0,,,51745.0,31343.0,1.8,,,1229.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-03-27,506465.0,,,46310.0,36091.0,1.99,,,1415.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-03-28,511520.0,,,5055.0,36357.0,2.01,,,1426.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-03-29,541761.0,,,30241.0,37082.0,2.12,,,1454.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-03-30,597523.0,,,55762.0,41428.0,2.34,,,1625.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-03-31,670349.0,,,72826.0,45014.0,2.63,,,1765.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-04-01,744328.0,,,73979.0,47988.0,2.92,,,1882.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-04-02,823611.0,,,79283.0,51922.0,3.23,,,2036.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-04-03,828416.0,,,4805.0,45993.0,3.25,,,1804.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-04-04,843182.0,,,14766.0,47380.0,3.31,,,1858.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-04-05,844309.0,,,1127.0,43221.0,3.31,,,1695.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-04-06,854983.0,,,10674.0,36780.0,3.35,,,1442.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-04-07,920334.0,,,65351.0,35712.0,3.61,,,1400.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Australia,AUS,2021-04-08,996145.0,,,75811.0,35974.0,3.91,,,1411.0,"Oxford/AstraZeneca, Pfizer/BioNTech",Government of Australia via covidlive.com.au,https://covidlive.com.au/vaccinations
+Austria,AUT,2020-12-27,731.0,731.0,,,,0.01,0.01,,,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2020-12-28,2025.0,2025.0,,1294.0,1294.0,0.02,0.02,,144.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2020-12-29,3643.0,3643.0,,1618.0,1456.0,0.04,0.04,,162.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2020-12-30,4991.0,4991.0,,1348.0,1420.0,0.06,0.06,,158.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2020-12-31,4999.0,4999.0,,8.0,1067.0,0.06,0.06,,118.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-01-01,5002.0,5002.0,,3.0,854.0,0.06,0.06,,95.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-01-02,5008.0,5008.0,,6.0,713.0,0.06,0.06,,79.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-01-03,5009.0,5009.0,,1.0,611.0,0.06,0.06,,68.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-01-04,5124.0,5124.0,,115.0,443.0,0.06,0.06,,49.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-01-05,6914.0,6914.0,,1790.0,467.0,0.08,0.08,,52.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-01-06,7746.0,7746.0,,832.0,394.0,0.09,0.09,,44.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-01-07,10920.0,10920.0,,3174.0,846.0,0.12,0.12,,94.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-01-08,23854.0,23854.0,,12934.0,2693.0,0.26,0.26,,299.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-01-09,28249.0,28249.0,,4395.0,3320.0,0.31,0.31,,369.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-01-10,30460.0,30460.0,,2211.0,3636.0,0.34,0.34,,404.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-01-11,36060.0,36060.0,,5600.0,4419.0,0.4,0.4,,491.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-01-12,50543.0,50543.0,,14483.0,6233.0,0.56,0.56,,692.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-01-13,65720.0,65720.0,,15177.0,8282.0,0.73,0.73,,920.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-01-14,82220.0,82220.0,,16500.0,10186.0,0.91,0.91,,1131.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-01-15,100149.0,100146.0,3.0,17929.0,10899.0,1.11,1.11,0.0,1210.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-01-16,106901.0,106889.0,12.0,6752.0,11236.0,1.19,1.19,0.0,1248.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-01-17,112579.0,112207.0,372.0,5678.0,11731.0,1.25,1.25,0.0,1303.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-01-18,123945.0,122684.0,1261.0,11366.0,12555.0,1.38,1.36,0.01,1394.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-01-19,149692.0,146984.0,2708.0,25747.0,14164.0,1.66,1.63,0.03,1573.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-01-20,173121.0,169128.0,3993.0,23429.0,15343.0,1.92,1.88,0.04,1704.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-01-21,192725.0,188568.0,4157.0,19604.0,15786.0,2.14,2.09,0.05,1753.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-01-22,204369.0,199630.0,4739.0,11644.0,14889.0,2.27,2.22,0.05,1653.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-01-23,207484.0,202743.0,4741.0,3115.0,14369.0,2.3,2.25,0.05,1595.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-01-24,208722.0,203979.0,4743.0,1238.0,13735.0,2.32,2.26,0.05,1525.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-01-25,210209.0,205359.0,4850.0,1487.0,12323.0,2.33,2.28,0.05,1368.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-01-26,218674.0,212935.0,5739.0,8465.0,9855.0,2.43,2.36,0.06,1094.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-01-27,226656.0,220398.0,6258.0,7982.0,7648.0,2.52,2.45,0.07,849.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-01-28,236461.0,227578.0,8883.0,9805.0,6248.0,2.63,2.53,0.1,694.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-01-29,251377.0,232886.0,18491.0,14916.0,6715.0,2.79,2.59,0.21,746.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-01-30,255042.0,234214.0,20828.0,3665.0,6794.0,2.83,2.6,0.23,754.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-01-31,256393.0,234568.0,21825.0,1351.0,6810.0,2.85,2.6,0.24,756.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-02-01,261009.0,236140.0,24869.0,4616.0,7257.0,2.9,2.62,0.28,806.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-02-02,278049.0,239254.0,38795.0,17040.0,8482.0,3.09,2.66,0.43,942.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-02-03,295754.0,242454.0,53300.0,17705.0,9871.0,3.28,2.69,0.59,1096.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-02-04,315771.0,245409.0,70362.0,20017.0,11330.0,3.51,2.72,0.78,1258.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-02-05,336565.0,249473.0,87092.0,20794.0,12170.0,3.74,2.77,0.97,1351.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-02-06,345520.0,252213.0,93307.0,8955.0,12925.0,3.84,2.8,1.04,1435.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-02-07,350506.0,252815.0,97691.0,4986.0,13445.0,3.89,2.81,1.08,1493.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-02-08,360082.0,254846.0,105236.0,9576.0,14153.0,4.0,2.83,1.17,1571.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-02-09,379149.0,257664.0,121485.0,19067.0,14443.0,4.21,2.86,1.35,1604.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-02-10,400732.0,261189.0,139543.0,21583.0,14997.0,4.45,2.9,1.55,1665.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-02-11,424858.0,266395.0,158463.0,24126.0,15584.0,4.72,2.96,1.76,1730.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-02-12,451268.0,274675.0,176593.0,26410.0,16386.0,5.01,3.05,1.96,1819.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-02-13,461568.0,279909.0,181659.0,10300.0,16578.0,5.12,3.11,2.02,1841.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-02-14,463577.0,280361.0,183216.0,2009.0,16153.0,5.15,3.11,2.03,1794.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-02-15,470660.0,284258.0,186402.0,7083.0,15797.0,5.23,3.16,2.07,1754.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-02-16,485047.0,291196.0,193851.0,14387.0,15128.0,5.39,3.23,2.15,1680.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-02-17,504286.0,300893.0,203393.0,19239.0,14793.0,5.6,3.34,2.26,1642.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-02-18,523770.0,312450.0,211320.0,19484.0,14130.0,5.82,3.47,2.35,1569.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-02-19,545001.0,325291.0,219710.0,21231.0,13390.0,6.05,3.61,2.44,1487.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-02-20,557896.0,336489.0,221407.0,12895.0,13761.0,6.19,3.74,2.46,1528.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-02-21,563785.0,341997.0,221788.0,5889.0,14315.0,6.26,3.8,2.46,1589.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-02-22,570667.0,347065.0,223602.0,6882.0,14287.0,6.34,3.85,2.48,1586.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-02-23,585264.0,357245.0,228019.0,14597.0,14317.0,6.5,3.97,2.53,1590.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-02-24,604810.0,373377.0,231433.0,19546.0,14361.0,6.72,4.15,2.57,1595.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-02-25,624549.0,389586.0,234963.0,19739.0,14397.0,6.93,4.33,2.61,1599.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-02-26,652936.0,413301.0,239635.0,28387.0,15419.0,7.25,4.59,2.66,1712.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-02-27,677480.0,435898.0,241582.0,24544.0,17083.0,7.52,4.84,2.68,1897.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-02-28,687662.0,445638.0,242024.0,10182.0,17697.0,7.64,4.95,2.69,1965.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-03-01,696245.0,453376.0,242869.0,8583.0,17940.0,7.73,5.03,2.7,1992.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-03-02,721177.0,476003.0,245174.0,24932.0,19416.0,8.01,5.29,2.72,2156.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-03-03,748702.0,501199.0,247503.0,27525.0,20556.0,8.31,5.56,2.75,2282.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-03-04,775387.0,525145.0,250242.0,26685.0,21548.0,8.61,5.83,2.78,2393.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-03-05,811382.0,558237.0,253145.0,35995.0,22635.0,9.01,6.2,2.81,2513.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-03-06,839197.0,583580.0,255617.0,27815.0,23102.0,9.32,6.48,2.84,2565.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-03-07,851006.0,594752.0,256254.0,11809.0,23335.0,9.45,6.6,2.85,2591.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-03-08,862410.0,604790.0,257620.0,11404.0,23738.0,9.58,6.72,2.86,2636.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-03-09,890372.0,629302.0,261070.0,27962.0,24171.0,9.89,6.99,2.9,2684.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-03-10,918998.0,653457.0,265541.0,28626.0,24328.0,10.2,7.26,2.95,2701.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-03-11,963311.0,692387.0,270924.0,44313.0,26846.0,10.7,7.69,3.01,2981.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-03-12,1020386.0,744158.0,276228.0,57075.0,29858.0,11.33,8.26,3.07,3315.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-03-13,1071597.0,789670.0,281927.0,51211.0,33200.0,11.9,8.77,3.13,3686.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-03-14,1100982.0,814925.0,286057.0,29385.0,35711.0,12.22,9.05,3.18,3965.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-03-15,1121555.0,833242.0,288313.0,20573.0,37021.0,12.45,9.25,3.2,4111.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-03-16,1149486.0,854954.0,294532.0,27931.0,37016.0,12.76,9.49,3.27,4110.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-03-17,1182753.0,880324.0,302429.0,33267.0,37679.0,13.13,9.77,3.36,4184.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-03-18,1217030.0,906664.0,310366.0,34277.0,36246.0,13.51,10.07,3.45,4024.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-03-19,1269218.0,950548.0,318670.0,52188.0,35547.0,14.09,10.55,3.54,3947.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-03-20,1315567.0,987474.0,328093.0,46349.0,34853.0,14.61,10.96,3.64,3870.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-03-21,1330891.0,998992.0,331899.0,15324.0,32844.0,14.78,11.09,3.69,3647.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-03-22,1346457.0,1012089.0,334368.0,15566.0,32129.0,14.95,11.24,3.71,3567.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-03-23,1380621.0,1030436.0,350185.0,34164.0,33019.0,15.33,11.44,3.89,3666.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-03-24,1418852.0,1051336.0,367516.0,38231.0,33728.0,15.75,11.67,4.08,3745.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-03-25,1463424.0,1080023.0,383401.0,44572.0,35199.0,16.25,11.99,4.26,3908.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-03-26,1512704.0,1111334.0,401370.0,49280.0,34784.0,16.8,12.34,4.46,3862.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-03-27,1552740.0,1136900.0,415840.0,40036.0,33882.0,17.24,12.62,4.62,3762.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-03-28,1567008.0,1146605.0,420403.0,14268.0,33731.0,17.4,12.73,4.67,3745.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-03-29,1592943.0,1167146.0,425797.0,25935.0,35212.0,17.69,12.96,4.73,3910.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-03-30,1633031.0,1195769.0,437262.0,40088.0,36059.0,18.13,13.28,4.86,4004.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-03-31,1667037.0,1217195.0,449842.0,34006.0,35455.0,18.51,13.51,4.99,3937.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-04-01,1707194.0,1239332.0,467862.0,40157.0,34824.0,18.96,13.76,5.19,3867.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-04-02,1749888.0,1263615.0,486273.0,42694.0,33883.0,19.43,14.03,5.4,3762.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-04-03,1770863.0,1276149.0,494714.0,20975.0,31160.0,19.66,14.17,5.49,3460.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-04-04,1780801.0,1284339.0,496462.0,9938.0,30542.0,19.77,14.26,5.51,3391.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-04-05,1793210.0,1292024.0,501186.0,12409.0,28610.0,19.91,14.35,5.56,3177.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-04-06,1829336.0,1316536.0,512800.0,36126.0,28044.0,20.31,14.62,5.69,3114.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-04-07,1881194.0,1353912.0,527282.0,51858.0,30594.0,20.89,15.03,5.85,3397.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Austria,AUT,2021-04-08,1947126.0,1397538.0,549588.0,65932.0,34276.0,21.62,15.52,6.1,3806.0,"Moderna, Oxford/AstraZeneca, Pfizer/BioNTech",Ministry of Health,https://info.gesundheitsministerium.gv.at/opendata/
+Azerbaijan,AZE,2021-01-17,0.0,0.0,,,,0.0,0.0,,,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-01-18,,,,,3250.0,,,,321.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-01-19,,,,,3250.0,,,,321.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-01-20,,,,,3250.0,,,,321.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-01-21,,,,,3250.0,,,,321.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-01-22,,,,,3250.0,,,,321.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-01-23,,,,,3250.0,,,,321.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-01-24,,,,,3250.0,,,,321.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-01-25,,,,,3250.0,,,,321.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-01-26,,,,,3250.0,,,,321.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-01-27,,,,,3250.0,,,,321.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-01-28,,,,,3250.0,,,,321.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-01-29,,,,,3250.0,,,,321.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-01-30,,,,,3250.0,,,,321.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-01-31,,,,,3250.0,,,,321.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-02-01,,,,,3250.0,,,,321.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-02-02,,,,,3250.0,,,,321.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-02-03,,,,,3250.0,,,,321.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-02-04,,,,,3250.0,,,,321.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-02-05,,,,,3250.0,,,,321.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-02-06,65000.0,65000.0,,,3250.0,0.64,0.64,,321.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-02-07,,,,,4204.0,,,,415.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-02-08,,,,,5158.0,,,,509.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-02-09,,,,,6112.0,,,,603.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-02-10,,,,,7066.0,,,,697.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-02-11,,,,,8020.0,,,,791.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-02-12,,,,,8975.0,,,,885.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-02-13,,,,,9929.0,,,,979.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-02-14,,,,,9929.0,,,,979.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-02-15,,,,,9929.0,,,,979.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-02-16,,,,,9929.0,,,,979.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-02-17,,,,,9929.0,,,,979.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-02-18,,,,,9929.0,,,,979.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-02-19,,,,,9929.0,,,,979.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-02-20,,,,,9929.0,,,,979.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-02-21,,,,,9929.0,,,,979.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-02-22,,,,,9929.0,,,,979.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-02-23,,,,,9929.0,,,,979.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-02-24,,,,,9929.0,,,,979.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-02-25,,,,,9929.0,,,,979.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-02-26,,,,,9929.0,,,,979.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-02-27,,,,,9929.0,,,,979.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-02-28,,,,,9929.0,,,,979.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-03-01,293360.0,293360.0,,,9929.0,2.89,2.89,,979.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-03-02,,,,,11650.0,,,,1149.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-03-03,337315.0,337315.0,,,13371.0,3.33,3.33,,1319.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-03-04,,,,,13719.0,,,,1353.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-03-05,,,,,14067.0,,,,1387.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-03-06,,,,,14415.0,,,,1422.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-03-07,,,,,14763.0,,,,1456.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-03-08,,,,,15110.0,,,,1490.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-03-09,411496.0,411496.0,,,13737.0,4.06,4.06,,1355.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-03-10,428635.0,428635.0,,17139.0,13046.0,4.23,4.23,,1287.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-03-11,436849.0,436849.0,,8214.0,12453.0,4.31,4.31,,1228.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-03-12,443888.0,443888.0,,7039.0,11692.0,4.38,4.38,,1153.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-03-13,450316.0,450316.0,,6428.0,10844.0,4.44,4.44,,1070.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-03-14,453586.0,453586.0,,3270.0,9545.0,4.47,4.47,,941.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-03-15,,,,,8471.0,,,,835.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-03-16,,,,,7398.0,,,,730.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-03-17,,,,,5641.0,,,,556.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-03-18,,,,,5160.0,,,,509.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-03-19,,,,,4847.0,,,,478.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-03-20,482664.0,482664.0,,,4621.0,4.76,4.76,,456.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-03-21,,,,,4815.0,,,,475.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-03-22,,,,,4783.0,,,,472.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-03-23,,,,,4752.0,,,,469.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-03-24,,,,,4720.0,,,,466.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-03-25,,,,,4689.0,,,,462.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-03-26,510420.0,510420.0,,,4657.0,5.03,5.03,,459.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-03-27,,,,,12202.0,,,,1203.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-03-28,,,,,19778.0,,,,1951.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-03-29,,,,,27354.0,,,,2698.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-03-30,,,,,34930.0,,,,3445.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-03-31,,,,,42505.0,,,,4192.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-04-01,856363.0,558485.0,297878.0,,50081.0,8.45,5.51,2.94,4939.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-04-02,889033.0,569994.0,319039.0,32670.0,54088.0,8.77,5.62,3.15,5335.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-04-03,924813.0,582463.0,342350.0,35780.0,50962.0,9.12,5.74,3.38,5026.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-04-04,947745.0,590914.0,356831.0,22932.0,46002.0,9.35,5.83,3.52,4537.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-04-05,947947.0,591012.0,356935.0,202.0,37794.0,9.35,5.83,3.52,3728.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-04-06,982291.0,611471.0,370820.0,34344.0,34463.0,9.69,6.03,3.66,3399.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-04-07,1025790.0,639463.0,386327.0,43499.0,32441.0,10.12,6.31,3.81,3200.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Azerbaijan,AZE,2021-04-08,1069488.0,672503.0,396985.0,43698.0,30446.0,10.55,6.63,3.92,3003.0,Sinovac,Government of Azerbaijan,https://koronavirusinfo.az/az/post/753
+Bahamas,BHS,2021-03-17,110.0,110.0,,,,0.03,0.03,,,Oxford/AstraZeneca,Government of the Bahamas,https://opm.gov.bs/statement-from-the-national-covid-19-vaccine-consultative-committee/
+Bahamas,BHS,2021-03-18,7000.0,7000.0,,6890.0,6890.0,1.78,1.78,,17521.0,Oxford/AstraZeneca,Government of the Bahamas,https://opm.gov.bs/statement-from-the-national-covid-19-vaccine-consultative-committee/
+Bahrain,BHR,2020-12-23,38965.0,38965.0,,,,2.29,2.29,,,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2020-12-24,50071.0,50071.0,,11106.0,11106.0,2.94,2.94,,6527.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2020-12-25,50543.0,50543.0,,472.0,5789.0,2.97,2.97,,3402.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2020-12-26,51556.0,51556.0,,1013.0,4197.0,3.03,3.03,,2467.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2020-12-27,53614.0,53614.0,,2058.0,3662.0,3.15,3.15,,2152.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2020-12-28,55014.0,55014.0,,1400.0,3210.0,3.23,3.23,,1886.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2020-12-29,56041.0,56041.0,,1027.0,2846.0,3.29,3.29,,1673.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2020-12-30,57317.0,57317.0,,1276.0,2622.0,3.37,3.37,,1541.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2020-12-31,58643.0,58643.0,,1326.0,1225.0,3.45,3.45,,720.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-01-01,59351.0,59351.0,,708.0,1258.0,3.49,3.49,,739.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-01-02,60097.0,60097.0,,746.0,1220.0,3.53,3.53,,717.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-01-03,60689.0,60689.0,,592.0,1011.0,3.57,3.57,,594.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-01-04,61612.0,61612.0,,923.0,943.0,3.62,3.62,,554.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-01-05,63893.0,63893.0,,2281.0,1122.0,3.75,3.75,,659.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-01-06,68472.0,68472.0,,4579.0,1594.0,4.02,4.02,,937.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-01-07,72239.0,72239.0,,3767.0,1942.0,4.25,4.25,,1141.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-01-08,78291.0,78291.0,,6052.0,2706.0,4.6,4.6,,1590.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-01-09,84157.0,84157.0,,5866.0,3437.0,4.95,4.95,,2020.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-01-10,89250.0,89250.0,,5093.0,4080.0,5.25,5.25,,2398.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-01-11,92598.0,92598.0,,3348.0,4427.0,5.44,5.44,,2602.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-01-12,97776.0,97776.0,,5178.0,4840.0,5.75,5.75,,2844.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-01-13,,101363.0,,,5288.0,,5.96,,3108.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-01-14,,109566.0,,,5852.0,,6.44,,3439.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-01-15,,122819.0,,,6089.0,,7.22,,3578.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-01-16,,137159.0,,,6353.0,,8.06,,3734.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-01-17,,141563.0,,,6727.0,,8.32,,3953.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-01-18,,142831.0,,,7350.0,,8.39,,4320.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-01-19,,143596.0,,,7712.0,,8.44,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-01-20,,144130.0,,,7712.0,,8.47,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-01-21,,,,,7712.0,,,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-01-22,,,,,7712.0,,,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-01-23,,,,,7712.0,,,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-01-24,,,,,7712.0,,,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-01-25,,,,,7712.0,,,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-01-26,,165953.0,,,7712.0,,9.75,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-01-27,,167731.0,,,7712.0,,9.86,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-01-28,,169440.0,,,7712.0,,9.96,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-01-29,,169810.0,,,7712.0,,9.98,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-01-30,,170433.0,,,7712.0,,10.02,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-01-31,,171568.0,,,7712.0,,10.08,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-02-01,,172912.0,,,7712.0,,10.16,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-02-02,,174075.0,,,7712.0,,10.23,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-02-03,,175094.0,,,7712.0,,10.29,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-02-04,,177233.0,,,7712.0,,10.42,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-02-05,,179550.0,,,7712.0,,10.55,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-02-06,,182543.0,,,7712.0,,10.73,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-02-07,,191406.0,,,7712.0,,11.25,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-02-08,,201116.0,,,7712.0,,11.82,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-02-09,,212940.0,,,7712.0,,12.51,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-02-10,,219595.0,,,7712.0,,12.91,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-02-11,,224919.0,,,7712.0,,13.22,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-02-12,,232540.0,,,7712.0,,13.67,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-02-13,,242260.0,,,7712.0,,14.24,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-02-14,,248775.0,,,7712.0,,14.62,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-02-15,,250946.0,,,7712.0,,14.75,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-02-16,,252990.0,,,7712.0,,14.87,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-02-17,,257580.0,,,7712.0,,15.14,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-02-18,,263422.0,,,7712.0,,15.48,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-02-19,,268273.0,,,7712.0,,15.77,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-02-20,,271749.0,,,7712.0,,15.97,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-02-21,,274960.0,,,7712.0,,16.16,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-02-22,,278222.0,,,7712.0,,16.35,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-02-23,,281425.0,,,7712.0,,16.54,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-02-24,,284948.0,,,7712.0,,16.75,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-02-25,,290103.0,,,7712.0,,17.05,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-02-26,,292917.0,,,7712.0,,17.21,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-02-27,,295296.0,,,7712.0,,17.35,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-02-28,,298171.0,,,7712.0,,17.52,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-03-01,,301103.0,,,7712.0,,17.7,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-03-02,,302671.0,,,7712.0,,17.79,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-03-03,,303962.0,,,7712.0,,17.86,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-03-04,,305619.0,,,7712.0,,17.96,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-03-05,,307142.0,,,7712.0,,18.05,,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-03-06,506519.0,307145.0,199374.0,,7712.0,29.77,18.05,11.72,4532.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-03-07,509907.0,308465.0,201442.0,3388.0,7094.0,29.97,18.13,11.84,4169.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-03-08,512420.0,309741.0,202679.0,2513.0,6352.0,30.11,18.2,11.91,3733.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-03-09,514559.0,310644.0,203915.0,2139.0,5556.0,30.24,18.26,11.98,3265.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-03-10,517901.0,311829.0,206072.0,3342.0,4931.0,30.44,18.33,12.11,2898.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-03-11,520429.0,312104.0,208325.0,2528.0,4191.0,30.58,18.34,12.24,2463.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-03-12,522344.0,312119.0,210225.0,1915.0,3362.0,30.7,18.34,12.35,1976.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-03-13,534625.0,322508.0,212117.0,12281.0,4015.0,31.42,18.95,12.47,2360.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-03-14,551197.0,337016.0,214181.0,16572.0,5899.0,32.39,19.81,12.59,3467.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-03-15,566796.0,349970.0,216826.0,15599.0,7768.0,33.31,20.57,12.74,4565.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-03-16,580539.0,361241.0,219298.0,13743.0,9426.0,34.12,21.23,12.89,5540.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-03-17,597446.0,374873.0,222573.0,16907.0,11364.0,35.11,22.03,13.08,6678.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-03-18,613946.0,386426.0,227520.0,16500.0,13360.0,36.08,22.71,13.37,7852.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-03-19,626751.0,396356.0,230395.0,12805.0,14915.0,36.83,23.29,13.54,8765.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-03-20,640104.0,407322.0,232782.0,13353.0,15068.0,37.62,23.94,13.68,8855.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-03-21,653236.0,417364.0,235872.0,13132.0,14577.0,38.39,24.53,13.86,8567.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-03-22,667155.0,428240.0,238915.0,13919.0,14337.0,39.21,25.17,14.04,8426.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-03-23,680081.0,439433.0,240648.0,12926.0,14220.0,39.97,25.82,14.14,8357.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-03-24,694679.0,452551.0,242128.0,14598.0,13890.0,40.83,26.6,14.23,8163.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-03-25,707980.0,464040.0,243940.0,13301.0,13433.0,41.61,27.27,14.34,7894.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-03-26,717408.0,471927.0,245481.0,9428.0,12951.0,42.16,27.73,14.43,7611.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-03-27,724001.0,478094.0,245907.0,6593.0,11985.0,42.55,28.1,14.45,7043.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-03-28,735717.0,487640.0,248077.0,11716.0,11783.0,43.24,28.66,14.58,6925.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-03-29,747008.0,496492.0,250516.0,11291.0,11408.0,43.9,29.18,14.72,6704.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-03-30,755549.0,502541.0,253008.0,8541.0,10781.0,44.4,29.53,14.87,6336.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-03-31,766317.0,510877.0,255440.0,10768.0,10234.0,45.04,30.02,15.01,6014.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-04-01,775196.0,517603.0,257593.0,8879.0,9602.0,45.56,30.42,15.14,5643.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-04-02,782530.0,522955.0,259575.0,7334.0,9303.0,45.99,30.73,15.25,5467.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-04-03,797924.0,527339.0,270585.0,15394.0,10560.0,46.89,30.99,15.9,6206.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-04-04,817379.0,530415.0,286964.0,19455.0,11666.0,48.04,31.17,16.86,6856.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-04-05,836788.0,534356.0,302432.0,19409.0,12826.0,49.18,31.4,17.77,7538.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-04-06,856326.0,539956.0,316370.0,19538.0,14397.0,50.33,31.73,18.59,8461.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-04-07,879825.0,546540.0,333285.0,23499.0,16215.0,51.71,32.12,19.59,9529.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bahrain,BHR,2021-04-08,900875.0,552084.0,348791.0,21050.0,17954.0,52.94,32.45,20.5,10551.0,"Oxford/AstraZeneca, Pfizer/BioNTech, Sinopharm/Beijing, Sputnik V",Ministry of Health,https://healthalert.gov.bh/en/
+Bangladesh,BGD,2021-01-26,0.0,0.0,,,,0.0,0.0,,,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-01-27,26.0,26.0,,26.0,26.0,0.0,0.0,,0.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-01-28,567.0,567.0,,541.0,284.0,0.0,0.0,,2.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-01-29,,,,,1209.0,,,,7.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-01-30,,,,,1671.0,,,,10.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-01-31,,,,,1949.0,,,,12.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-02-01,,,,,2134.0,,,,13.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-02-02,,,,,2266.0,,,,14.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-02-03,,,,,2700.0,,,,16.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-02-04,,,,,3059.0,,,,19.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-02-05,,,,,3059.0,,,,19.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-02-06,,,,,3059.0,,,,19.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-02-07,31160.0,31160.0,,,3059.0,0.02,0.02,,19.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-02-08,,,,,13205.0,,,,80.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-02-09,179318.0,179318.0,,,23351.0,0.11,0.11,,142.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-02-10,337769.0,337769.0,,158451.0,45549.0,0.21,0.21,,277.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-02-11,,,,,64108.0,,,,389.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-02-12,,,,,82667.0,,,,502.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-02-13,736680.0,736680.0,,,101226.0,0.45,0.45,,615.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-02-14,906033.0,906033.0,,169353.0,124982.0,0.55,0.55,,759.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-02-15,1132711.0,1132711.0,,226678.0,146782.0,0.69,0.69,,891.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-02-16,1359613.0,1359613.0,,226902.0,168614.0,0.83,0.83,,1024.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-02-17,1586368.0,1586368.0,,226755.0,178371.0,0.96,0.96,,1083.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-02-18,1848313.0,1848313.0,,261945.0,196796.0,1.12,1.12,,1195.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-02-19,,,,,194555.0,,,,1181.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-02-20,2082877.0,2082877.0,,,192314.0,1.26,1.26,,1168.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-02-21,,,,,184212.0,,,,1119.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-02-22,2308157.0,2308157.0,,,167921.0,1.4,1.4,,1020.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-02-23,2491053.0,2491053.0,,182896.0,161634.0,1.51,1.51,,981.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-02-24,2673038.0,2673038.0,,181985.0,155239.0,1.62,1.62,,943.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-02-25,2850940.0,2850940.0,,177902.0,143232.0,1.73,1.73,,870.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-02-26,,,,,136037.0,,,,826.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-02-27,2984773.0,2984773.0,,,128842.0,1.81,1.81,,782.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-02-28,3110525.0,3110525.0,,125752.0,130715.0,1.89,1.89,,794.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-03-01,,,,,131123.0,,,,796.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-03-02,3341505.0,3341505.0,,,121493.0,2.03,2.03,,738.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-03-03,,,,,112614.0,,,,684.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-03-04,3581169.0,3581169.0,,,104318.0,2.17,2.17,,633.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-03-05,,,,,99568.0,,,,605.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-03-06,,,,,94817.0,,,,576.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-03-07,3682152.0,3682152.0,,,81661.0,2.24,2.24,,496.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-03-08,,,,,88863.0,,,,540.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-03-09,4013963.0,4013963.0,,,96065.0,2.44,2.44,,583.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-03-10,,,,,93530.0,,,,568.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-03-11,4218127.0,4218127.0,,,90994.0,2.56,2.56,,553.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-03-12,,,,,94755.0,,,,575.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-03-13,,,,,98516.0,,,,598.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-03-14,4398094.0,4398094.0,,,102277.0,2.67,2.67,,621.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-03-15,,,,,91598.0,,,,556.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-03-16,4580391.0,4580391.0,,,80918.0,2.78,2.78,,491.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-03-17,,,,,74009.0,,,,449.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-03-18,4687824.0,4687824.0,,,67100.0,2.85,2.85,,407.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-03-19,,,,,63738.0,,,,387.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-03-20,4760747.0,4760747.0,,,60377.0,2.89,2.89,,367.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-03-21,,,,,62604.0,,,,380.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-03-22,4911902.0,4911902.0,,,60380.0,2.98,2.98,,367.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-03-23,,,,,58584.0,,,,356.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-03-24,5069049.0,5069049.0,,,62134.0,3.08,3.08,,377.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-03-25,5139456.0,5139456.0,,70407.0,64519.0,3.12,3.12,,392.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-03-26,,,,,65747.0,,,,399.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-03-27,,,,,66974.0,,,,407.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-03-28,,,,,62614.0,,,,380.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-03-29,5319679.0,5319679.0,,,58254.0,3.23,3.23,,354.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-03-30,,,,,50654.0,,,,308.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-03-31,5370431.0,5370431.0,,,43055.0,3.26,3.26,,261.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-04-01,5412691.0,5412691.0,,42260.0,39034.0,3.29,3.29,,237.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-04-02,,,,,35450.0,,,,215.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-04-03,5452634.0,5452634.0,,,31867.0,3.31,3.31,,193.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-04-04,5498172.0,5498172.0,,45538.0,31936.0,3.34,3.34,,194.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-04-05,5539494.0,5539494.0,,41322.0,31402.0,3.36,3.36,,191.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-04-06,,,,,29863.0,,,,181.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Bangladesh,BGD,2021-04-07,5568703.0,5568703.0,,,28325.0,3.38,3.38,,172.0,Oxford/AstraZeneca,Directorate General of Health Services,https://dghs.gov.bd/images/docs/vpr/Covid-19-Vaccination-Update-7-4-2021.pdf
+Barbados,BRB,2021-02-15,4490.0,4490.0,,,,1.56,1.56,,,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-02-16,6683.0,6683.0,,2193.0,2193.0,2.33,2.33,,7631.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-02-17,9115.0,9115.0,,2432.0,2312.0,3.17,3.17,,8045.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-02-18,11494.0,11494.0,,2379.0,2335.0,4.0,4.0,,8125.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-02-19,14411.0,14411.0,,2917.0,2480.0,5.01,5.01,,8630.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-02-20,15837.0,15837.0,,1426.0,2269.0,5.51,5.51,,7896.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-02-21,16544.0,16544.0,,707.0,2009.0,5.76,5.76,,6991.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-02-22,19089.0,19089.0,,2545.0,2086.0,6.64,6.64,,7259.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-02-23,22037.0,22037.0,,2948.0,2193.0,7.67,7.67,,7631.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-02-24,25578.0,25578.0,,3541.0,2352.0,8.9,8.9,,8185.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-02-25,29283.0,29283.0,,3705.0,2541.0,10.19,10.19,,8842.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-02-26,33633.0,33633.0,,4350.0,2746.0,11.7,11.7,,9556.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-02-27,36749.0,36749.0,,3116.0,2987.0,12.79,12.79,,10394.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-02-28,38615.0,38615.0,,1866.0,3153.0,13.44,13.44,,10972.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-03-01,41125.0,41125.0,,2510.0,3148.0,14.31,14.31,,10954.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-03-02,43235.0,43235.0,,2110.0,3028.0,15.05,15.05,,10537.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-03-03,44859.0,44859.0,,1624.0,2754.0,15.61,15.61,,9583.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-03-04,46442.0,46442.0,,1583.0,2451.0,16.16,16.16,,8529.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-03-05,48480.0,48480.0,,2038.0,2121.0,16.87,16.87,,7381.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-03-06,48886.0,48886.0,,406.0,1734.0,17.01,17.01,,6034.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-03-07,49317.0,49317.0,,431.0,1529.0,17.16,17.16,,5321.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-03-08,49393.0,49393.0,,76.0,1181.0,17.19,17.19,,4110.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-03-09,49757.0,49757.0,,364.0,932.0,17.31,17.31,,3243.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-03-10,50263.0,50263.0,,506.0,772.0,17.49,17.49,,2686.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-03-11,50703.0,50703.0,,440.0,609.0,17.64,17.64,,2119.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-03-12,50980.0,50980.0,,277.0,357.0,17.74,17.74,,1242.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-03-13,51595.0,51595.0,,615.0,387.0,17.95,17.95,,1347.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-03-14,52290.0,52290.0,,695.0,425.0,18.2,18.2,,1479.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-03-15,53129.0,53129.0,,839.0,534.0,18.49,18.49,,1858.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-03-16,54631.0,54631.0,,1502.0,696.0,19.01,19.01,,2422.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-03-17,56018.0,56018.0,,1387.0,822.0,19.49,19.49,,2860.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-03-18,58214.0,58214.0,,2196.0,1073.0,20.26,20.26,,3734.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-03-19,60206.0,60206.0,,1992.0,1318.0,20.95,20.95,,4586.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-03-20,61108.0,61108.0,,902.0,1359.0,21.26,21.26,,4729.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-03-21,61752.0,61752.0,,644.0,1352.0,21.49,21.49,,4705.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-03-22,61781.0,61781.0,,29.0,1236.0,21.5,21.5,,4301.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-03-23,62765.0,62765.0,,984.0,1162.0,21.84,21.84,,4044.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-03-24,,,,,966.0,,,,3362.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-03-25,62802.0,62802.0,,,655.0,21.85,21.85,,2279.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-03-26,63689.0,63689.0,,887.0,498.0,22.16,22.16,,1733.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-03-27,,,,,370.0,,,,1288.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-03-28,,,,,279.0,,,,971.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-03-29,63711.0,63711.0,,,276.0,22.17,22.17,,960.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-03-30,63715.0,63715.0,,4.0,136.0,22.17,22.17,,473.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-03-31,63728.0,63728.0,,13.0,135.0,22.18,22.18,,470.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-04-01,63735.0,63735.0,,7.0,133.0,22.18,22.18,,463.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Barbados,BRB,2021-04-02,63738.0,63738.0,,3.0,7.0,22.18,22.18,,24.0,Oxford/AstraZeneca,Ministry of Health,https://www.facebook.com/moh.barbados/photos/a.768944336470972/4077000855665287
+Belarus,BLR,2020-12-28,0.0,0.0,,,,0.0,0.0,,,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2020-12-29,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2020-12-30,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2020-12-31,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-01-01,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-01-02,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-01-03,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-01-04,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-01-05,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-01-06,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-01-07,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-01-08,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-01-09,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-01-10,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-01-11,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-01-12,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-01-13,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-01-14,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-01-15,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-01-16,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-01-17,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-01-18,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-01-19,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-01-20,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-01-21,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-01-22,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-01-23,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-01-24,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-01-25,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-01-26,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-01-27,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-01-28,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-01-29,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-01-30,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-01-31,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-02-01,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-02-02,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-02-03,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-02-04,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-02-05,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-02-06,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-02-07,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-02-08,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-02-09,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-02-10,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-02-11,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-02-12,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-02-13,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-02-14,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-02-15,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-02-16,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-02-17,,,,,403.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-02-18,20944.0,20944.0,,,403.0,0.22,0.22,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-02-19,,,,,404.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-02-20,,,,,405.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-02-21,,,,,407.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-02-22,,,,,408.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-02-23,,,,,409.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-02-24,,,,,410.0,,,,43.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-02-25,,,,,412.0,,,,44.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-02-26,,,,,412.0,,,,44.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-02-27,,,,,412.0,,,,44.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-02-28,,,,,412.0,,,,44.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-03-01,,,,,412.0,,,,44.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-03-02,,,,,412.0,,,,44.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-03-03,,,,,412.0,,,,44.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-03-04,,,,,412.0,,,,44.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-03-05,,,,,412.0,,,,44.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-03-06,,,,,412.0,,,,44.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-03-07,,,,,412.0,,,,44.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-03-08,,,,,412.0,,,,44.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-03-09,,,,,412.0,,,,44.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-03-10,,,,,412.0,,,,44.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-03-11,,,,,412.0,,,,44.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-03-12,30000.0,20000.0,10000.0,,412.0,0.32,0.21,0.11,44.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-03-13,,,,,726.0,,,,77.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-03-14,,,,,1041.0,,,,110.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-03-15,,,,,1356.0,,,,144.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-03-16,,,,,1671.0,,,,177.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-03-17,,,,,1986.0,,,,210.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-03-18,,,,,2301.0,,,,244.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-03-19,,,,,2616.0,,,,277.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-03-20,,,,,2616.0,,,,277.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-03-21,,,,,2616.0,,,,277.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-03-22,,,,,2616.0,,,,277.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-03-23,,,,,2616.0,,,,277.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
+Belarus,BLR,2021-03-24,,,,,2616.0,,,,277.0,Sputnik V,Ministry of Health,https://eng.belta.by/president/view/vaccination-in-focus-of-lukashenkos-meeting-with-healthcare-minister-138542-2021/
